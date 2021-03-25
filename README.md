@@ -17,7 +17,7 @@ We are using React, TailWindCss, and Netlify to host the website.
 - Abdellatif Edlby: Junior Engineer (https://github.com/Abdellatif-E)
 - Tommy Chaanine: Junior Engineer (https://github.com/Tommymaxprog)
 
-# Life Demo:
+# Live Demo:
 
 This website is hosted on Netlify
 check it out here: https://e-track-wbc.netlify.app
